@@ -1,0 +1,6 @@
+﻿소스.obj : error LNK2019: clGetPlatformIDsmain 함수에서 참조되는 확인할 수 없는 외부 기호
+소스.obj : error LNK2019: clGetPlatformInfomain 함수에서 참조되는 확인할 수 없는 외부 기호
+소스.obj : error LNK2019: clGetDeviceIDsmain 함수에서 참조되는 확인할 수 없는 외부 기호
+소스.obj : error LNK2019: clGetDeviceInfomain 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.6\lib\Win32\OpenCL.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+C:\Users\User\Desktop\수업\4-2\멀티코어프로그래밍\멀티코어프로그래밍1\x64\Debug\멀티코어프로그래밍1.exe : fatal error LNK1120: 4개의 확인할 수 없는 외부 참조입니다.

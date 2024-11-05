@@ -1,0 +1,4 @@
+﻿  소스.cpp
+  cl_version.h: CL_TARGET_OPENCL_VERSION is not defined. Defaulting to 300 (OpenCL 3.0)
+C:\Users\User\Desktop\수업\4-2\멀티코어프로그래밍\멀티코어프로그래밍1\멀티코어프로그래밍1\소스.cpp(32,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  멀티코어프로그래밍1.vcxproj -> C:\Users\User\Desktop\수업\4-2\멀티코어프로그래밍\멀티코어프로그래밍1\Debug\멀티코어프로그래밍1.exe
